@@ -1,0 +1,31 @@
+{
+  "name": "ngx-server-side-mat-grid",
+  "version": "1.0.0",
+  "description": "A configurable and re-usable table component for server side interactions built on angular using Angular Material data table",
+  "keywords": [
+    "server-side-mat-table",
+    "reusable grid component",
+    "server side pagination",
+    "server side sorting",
+    "server side searching"
+  ],
+  "author": {
+    "name": "Beerendra M C",
+    "email": "beerendramc@gmail.com",
+    "url": "https://beerendramc.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeerendraMC/ngx-server-side-mat-grid"
+  },
+  "peerDependencies": {
+    "@angular/cdk": "^16.1.7",
+    "@angular/material": "^16.1.7",
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
